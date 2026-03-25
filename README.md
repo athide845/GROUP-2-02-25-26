@@ -1,5 +1,5 @@
-# GROUP-2-02-25-26
-Tools and Architecture Set Up
+# GROUP-2:Tools and Architecture Set Up
+
 In this activity, the project was prepared by setting up the tools and system structure. The  was used to create and manage the project files. A new folder was created to serve as the main directory of the project.
 A local Git repository was also set up to track changes in the project. This helps keep a record of updates and makes it easier to manage the project.
 A README file was created to explain the purpose of the project. It also describes the folder structure and how the system is organized.
